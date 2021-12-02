@@ -14,7 +14,7 @@ A configurable script that checks for network connectivity. After failure it doe
 1. Reset the configured network device and try to renew the IP address using the DHCP client.
 1. (optional)Reboot the machine.
 
-The script needs tu be run periodically using crontab or any other scheduler.
+The script needs to be run periodically using crontab or any other scheduler.
 
 #### Crontab example entry
 
